@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|e:\\assessment\\oecassignment\\sdet-assignment\\interview\\rl.backend\\controllers\\procedurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\controllers\\procedurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|e:\\assessment\\oecassignment\\sdet-assignment\\interview\\rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|e:\\assessment\\oecassignment\\sdet-assignment\\interview\\rl.backend\\commands\\handlers\\plans\\assignuserstoplanprocedurecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\commands\\handlers\\plans\\assignuserstoplanprocedurecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProceduresController.cs",
+              "DocumentMoniker": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\ProceduresController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\ProceduresController.cs",
+              "ToolTip": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\ProceduresController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\ProceduresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:47:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanProcedureController.cs",
+              "DocumentMoniker": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ToolTip": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:47:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignUsersToPlanProcedureCommandHandler.cs",
+              "DocumentMoniker": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AssignUsersToPlanProcedureCommandHandler.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\Handlers\\Plans\\AssignUsersToPlanProcedureCommandHandler.cs",
+              "ToolTip": "E:\\Assessment\\OECAssignment\\SDET-assignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AssignUsersToPlanProcedureCommandHandler.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\Handlers\\Plans\\AssignUsersToPlanProcedureCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:47:07.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
