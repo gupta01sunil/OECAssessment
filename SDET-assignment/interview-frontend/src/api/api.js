@@ -75,6 +75,17 @@ export const getPlanProcedures = async (planId) => {
     return await response.json();
 };
 
+export const getPlanProcedures = async (planId,procedureId) => {
+    const url = `${api_url}/PlanProcedure?$filter=planId eq ${planId}&procedureId eq ${procedureId}&$expand=procedure`;
+    const response = await fetch(url, {
+        method: "GET",
+    });
+
+    if (!response.ok) throw new Error("Failed to get plan procedures");
+
+    return await response.json();
+};
+
 export const getUsers = async () => {
     const url = `${api_url}/Users`;
     const response = await fetch(url, {

@@ -28,6 +28,15 @@ public class PlanProcedureController : ControllerBase
     public IEnumerable<PlanProcedure> Get()
     {
         return _context.PlanProcedures;
+        //var names = dbContext.MyTable.Where(x => x.UserId > 10).Select(x => x.Name);
+    }
+
+    [HttpGet]
+    [EnableQuery]
+    public IEnumerable<PlanProcedure> Get(int? planId,int? procedureId)
+    {
+        var selectedUsers = _context.PlanProcedures.Where(x => x.PlanId == planId).Where(x =>x.ProcedureId == procedureId).Select(x => x.PlanProcedureUsers);
+        return (IEnumerable<PlanProcedure>)selectedUsers;
     }
 
     [HttpPost("AssignUsersToPlanProcedure")]

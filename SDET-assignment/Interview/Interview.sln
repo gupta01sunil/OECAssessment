@@ -1,21 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RL.Backend", "RL.Backend\RL.Backend.csproj", "{8ABC75AA-12EA-4182-813B-E4A37144AB37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RL.Backend", "RL.Backend\RL.Backend.csproj", "{8ABC75AA-12EA-4182-813B-E4A37144AB37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RL.Data", "RL.Data\RL.Data.csproj", "{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RL.Data", "RL.Data\RL.Data.csproj", "{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RL.Backend.UnitTests", "RL.Backend.UnitTests\RL.Backend.UnitTests.csproj", "{065B0248-A3CA-43CC-960C-D22017816A82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RL.Backend.UnitTests", "RL.Backend.UnitTests\RL.Backend.UnitTests.csproj", "{065B0248-A3CA-43CC-960C-D22017816A82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8ABC75AA-12EA-4182-813B-E4A37144AB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +27,8 @@ Global
 		{065B0248-A3CA-43CC-960C-D22017816A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065B0248-A3CA-43CC-960C-D22017816A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065B0248-A3CA-43CC-960C-D22017816A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
